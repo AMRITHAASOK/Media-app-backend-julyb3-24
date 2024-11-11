@@ -1,0 +1,72 @@
+{
+  "allvideos": [
+    {
+      "id": "b3e4",
+      "caption": "Angular",
+      "imgUrl": "https://blog.eduonix.com/wp-content/uploads/2019/10/AngularJS-Overview.jpg",
+      "link": "https://www.youtube.com/embed/CGLdH5ORX-Y?si=A2ScoipKbWqAQKC5"
+    },
+    {
+      "id": "1d51",
+      "caption": "React",
+      "imgUrl": "https://th.bing.com/th/id/OIP.WUBExTXB_NgfzKOv7KYUOAAAAA?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+    }
+  ],
+  "watch-history": [],
+  "category": [
+    {
+      "id": "43d7",
+      "categoryName": "Angular",
+      "allVideos": [
+        {
+          "id": "b3e4",
+          "caption": "Angular",
+          "imgUrl": "https://blog.eduonix.com/wp-content/uploads/2019/10/AngularJS-Overview.jpg",
+          "link": "https://www.youtube.com/embed/CGLdH5ORX-Y?si=A2ScoipKbWqAQKC5"
+        },
+        {
+          "id": "b3e4",
+          "caption": "Angular",
+          "imgUrl": "https://blog.eduonix.com/wp-content/uploads/2019/10/AngularJS-Overview.jpg",
+          "link": "https://www.youtube.com/embed/CGLdH5ORX-Y?si=A2ScoipKbWqAQKC5"
+        },
+        {
+          "id": "1d51",
+          "caption": "React",
+          "imgUrl": "https://th.bing.com/th/id/OIP.WUBExTXB_NgfzKOv7KYUOAAAAA?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+        },
+        {
+          "id": "b3e4",
+          "caption": "Angular",
+          "imgUrl": "https://blog.eduonix.com/wp-content/uploads/2019/10/AngularJS-Overview.jpg",
+          "link": "https://www.youtube.com/embed/CGLdH5ORX-Y?si=A2ScoipKbWqAQKC5"
+        },
+        {
+          "id": "1d51",
+          "caption": "React",
+          "imgUrl": "https://th.bing.com/th/id/OIP.WUBExTXB_NgfzKOv7KYUOAAAAA?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+        },
+        {
+          "id": "1d51",
+          "caption": "React",
+          "imgUrl": "https://th.bing.com/th/id/OIP.WUBExTXB_NgfzKOv7KYUOAAAAA?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+        },
+        {
+          "id": "1d51",
+          "caption": "React",
+          "imgUrl": "https://th.bing.com/th/id/OIP.WUBExTXB_NgfzKOv7KYUOAAAAA?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+        }
+      ]
+    },
+    {
+      "id": "65e5",
+      "categoryName": "React",
+      "allVideos": []
+    }
+  ]
+}
